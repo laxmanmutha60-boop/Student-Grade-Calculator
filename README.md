@@ -67,8 +67,7 @@ Student-Grade-Calculator
 
 
 ## 👨‍💻 Author
-
-laxman mutha
+user
 ---
 
 ## 📄 License
